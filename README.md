@@ -6,6 +6,9 @@ A 4-bit binary counter built using an Arduino and 4 LEDs. The counter starts at 
 ## Demo
 https://youtu.be/X8tSVtXjUVM
 
+Below is a 5-bit version displaying the number 21.
+<br><br><img src="5_bit_example_21.jpg" alt="screenshot" width="20%" height="20%"/>
+
 ## Contact
 Gaurav Garre: [gauravgarre@gmail.com](mailto:gauravgarre@gmail.com)
 
